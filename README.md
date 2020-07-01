@@ -6,4 +6,4 @@
 - [x] In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ## Video Walkthrough
-[]!(Yelpy.gif)
+![](Yelpy.gif)
