@@ -1,9 +1,10 @@
 # Yelpy-IOSApp
-
-- [x] User can tap a cell to see more details about a particular movie.
-- [x] User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
-- [x] User can tap a poster in the collection view to see a detail screen of that movie.
-- [x] In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
+- [x] This app interacts with Yelp via API Call, fetches information about restaurants and displays the information fetched. Some key features are highlighted below. 
+- [x] Infinite scroll: Requests for more data intuitively as the user is at the end of the current list of restaurants
+- [x] Search Bar: Search the restaurants by their name or type of cuisine 
+- [x] Animations:
+  * Skeleton-view animation to animate the view during loading the data from the API 
+  * Lottie animation to display transitions between view-controllers 
 
 ## Video Walkthrough
 ![](Yelpy.gif)
